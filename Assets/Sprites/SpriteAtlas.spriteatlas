@@ -1,0 +1,102 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!687078895 &4343727234628468602
+SpriteAtlas:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: SpriteAtlas
+  m_EditorData:
+    serializedVersion: 2
+    textureSettings:
+      serializedVersion: 2
+      anisoLevel: 1
+      compressionQuality: 50
+      maxTextureSize: 2048
+      textureCompression: 0
+      filterMode: 1
+      generateMipMaps: 0
+      readable: 0
+      crunchedCompression: 0
+      sRGB: 1
+    platformSettings:
+    - serializedVersion: 3
+      m_BuildTarget: DefaultTexturePlatform
+      m_MaxTextureSize: 1024
+      m_ResizeAlgorithm: 0
+      m_TextureFormat: -1
+      m_TextureCompression: 1
+      m_CompressionQuality: 50
+      m_CrunchedCompression: 0
+      m_AllowsAlphaSplitting: 0
+      m_Overridden: 0
+      m_AndroidETC2FallbackOverride: 0
+      m_ForceMaximumCompressionQuality_BC6H_BC7: 0
+    packingSettings:
+      serializedVersion: 2
+      padding: 4
+      blockOffset: 1
+      allowAlphaSplitting: 0
+      enableRotation: 1
+      enableTightPacking: 1
+      enableAlphaDilation: 0
+    secondaryTextureSettings: {}
+    variantMultiplier: 1
+    packables:
+    - {fileID: 102900000, guid: 4f78efb0dfbb7924c86760aa36659f41, type: 3}
+    bindAsDefault: 1
+    isAtlasV2: 0
+    cachedData: {fileID: 0}
+  m_MasterAtlas: {fileID: 0}
+  m_PackedSprites:
+  - {fileID: 21300000, guid: b0f0d930389ebcf4e93d9acbed147202, type: 3}
+  - {fileID: 21300000, guid: 9f3c50c022da640648ee29ee9ee7adf8, type: 3}
+  - {fileID: 21300000, guid: 9a5d88c0d09f1c144a3fab335ee96e09, type: 3}
+  - {fileID: 21300000, guid: 4bc838f2408bc4f38aac83f3fcf3bcb0, type: 3}
+  - {fileID: 21300000, guid: e0d205e33f577419cb357631ec486da0, type: 3}
+  - {fileID: 21300000, guid: d1724c14577de324a8b874ce8591277a, type: 3}
+  - {fileID: 21300000, guid: d58694e476b85c64794994fa33887cee, type: 3}
+  - {fileID: 21300000, guid: 46081fb52ee7a1b42a23547658987f50, type: 3}
+  - {fileID: 21300000, guid: ceb72a1764a78cb46ae6e3b77faa6b40, type: 3}
+  - {fileID: 21300000, guid: 15cab8d72c756944c924ca1f4bed4a85, type: 3}
+  - {fileID: 21300000, guid: f9e47d48ae68e48eab6bcdcc8fcac328, type: 3}
+  - {fileID: 21300000, guid: 656d82c8877dd9741b2f3c80aeef210c, type: 3}
+  - {fileID: 21300000, guid: cc7df7d92dcf7a94f8b9b7ab6bf08318, type: 3}
+  - {fileID: 21300000, guid: d9261c5a583956d458a49c1437072f2f, type: 3}
+  - {fileID: 21300000, guid: 9406400b22b2b0849a1c6b6dabfce5fd, type: 3}
+  - {fileID: 21300000, guid: edafcf0c5aa810646abdd7b6df1fcff3, type: 3}
+  - {fileID: 21300000, guid: be10e9bc33eba2843a61397d41b6ae8e, type: 3}
+  - {fileID: 21300000, guid: 41f68bec7506344f19c4a2960cda7eb0, type: 3}
+  - {fileID: 21300000, guid: c5a1df8def5886b478f575c738713e9c, type: 3}
+  - {fileID: 21300000, guid: a25644dd336e50b4a997f4ccfbff219d, type: 3}
+  - {fileID: 21300000, guid: 0f2c214e172fa9d4fa1f541124e53b29, type: 3}
+  - {fileID: 21300000, guid: 10cba4be838bc4ac3b9e30dd05d7d176, type: 3}
+  - {fileID: 21300000, guid: a23a57be640054bf08deecbc33c70a5e, type: 3}
+  m_PackedSpriteNamesToIndex:
+  - Background_06 1
+  - Frame_ListFrame01_00
+  - Play_Time_Bg_pvp 1
+  - Frame_ListFrame01_01_Blue
+  - Icon_MenuIcon04_Trophy
+  - Frame_ItemFrame01_Color_Brown 1
+  - Background_ScreenDimed_Black 1
+  - Popup_Frame01_Navy 1
+  - Common_Golw_White 1
+  - Btn_MainButton_Yellow 1
+  - Slider17_Frame
+  - Icon_PictoIcon_Play 1
+  - Btn_MainButton_Red 1
+  - Btn_MainButton_White 1
+  - Icon_PictoIcon_Close01 1
+  - Btn_OtherButton_Square08 1
+  - Frame_ListFrame02_s 1
+  - Slider17_Fill
+  - Btn_OtherButton_Square05 1
+  - Btn_MainButton_Green 1
+  - Btn_OtherButton_Square01_Yellow 1
+  - Frame_BasicFrame_Square022
+  - Frame_StageFrame_d
+  m_RenderDataMap: {}
+  m_Tag: SpriteAtlas
+  m_IsVariant: 0
